@@ -7,3 +7,8 @@
 #### RH
 
 #### Clientes
+
+
+
+# Odoo 
+  +  [ ] OWL interface
